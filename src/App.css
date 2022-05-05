@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.padding {
+  background-color: rgb(221,221,221);
+  border: 3px solid black;
+  padding: 30px;
+  margin: 30px;
+}
+
+.flex {
+  display: flex;
+  gap: 30px;
+}

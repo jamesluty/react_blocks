@@ -1,0 +1,39 @@
+.header {
+    background-color: rgb(106,168,79);
+    border: 3px solid black;
+    height: 125px;
+    padding: 30px;
+}
+
+.navigation {
+    background-color: rgb(111,168,220);
+    border: 3px solid black;
+    display: flex;
+    flex: 1;
+    margin-top: 30px;
+    height: 500px;
+}
+
+.main {
+    background-color: rgb(224,102,102);
+    border: 3px solid black;
+    flex: 4;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.sub_contents {
+    background-color: rgb(255,217,102);
+    border: 3px solid black;
+    flex: 1;
+    height: 400px;
+    width: 325px;
+}
+
+.advertisement {
+    background-color: rgb(180,167,214);
+    border: 3px solid black;
+    height: 150px;
+    margin-top: 30px;
+    width: 100%;
+}
